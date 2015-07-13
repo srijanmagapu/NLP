@@ -34,9 +34,9 @@
 <Punctuation> </Punctuation>
 <word>philosopher</word>
 <Punctuation> </Punctuation>
-<word>Ernst</word>
+<word ProperNoun='true'>Ernst</word>
 <Punctuation> </Punctuation>
-<word>Haeckel</word>
+<word ProperNoun='true'>Haeckel</word>
 <Punctuation>,</Punctuation>
 <Punctuation> </Punctuation>
 <word>who</word>
@@ -64,7 +64,7 @@
 <Punctuation> </Punctuation>
 <word>character</word>
 <Punctuation> </Punctuation>
-<word>of</word>
+<word ProperNoun='true'>of</word>
 <Punctuation> </Punctuation>
 <word>the</word>
 <Punctuation> </Punctuation>
@@ -106,7 +106,7 @@
 <Punctuation> </Punctuation>
 <word>sense</word>
 <Punctuation> </Punctuation>
-<word>of</word>
+<word ProperNoun='true'>of</word>
 <Punctuation> </Punctuation>
 <word>the</word>
 <Punctuation> </Punctuation>
@@ -154,15 +154,15 @@
 <Punctuation> </Punctuation>
 <word>assassination</word>
 <Punctuation> </Punctuation>
-<word>of</word>
+<word ProperNoun='true'>of</word>
 <Punctuation> </Punctuation>
 <word>Archduke</word>
 <Punctuation> </Punctuation>
-<word>Franz</word>
+<word ProperNoun='true'>Franz</word>
 <Punctuation> </Punctuation>
-<word>Ferdinand</word>
+<word ProperNoun='true'>Ferdinand</word>
 <Punctuation> </Punctuation>
-<word>of</word>
+<word ProperNoun='true'>of</word>
 <Punctuation> </Punctuation>
 <word>Austria</word>
 <Punctuation>,</Punctuation>
@@ -175,7 +175,7 @@
 <Punctuation> </Punctuation>
 <word>throne</word>
 <Punctuation> </Punctuation>
-<word>of</word>
+<word ProperNoun='true'>of</word>
 <Punctuation> </Punctuation>
 <word>Austria</word>
 <Punctuation>-</Punctuation>
@@ -188,9 +188,9 @@
 <Punctuation> </Punctuation>
 <word>nationalist</word>
 <Punctuation> </Punctuation>
-<word>Gavrilo</word>
+<word ProperNoun='true'>Gavrilo</word>
 <Punctuation> </Punctuation>
-<word>Princip</word>
+<word ProperNoun='true'>Princip</word>
 <Punctuation> </Punctuation>
 <Punctuation>(</Punctuation>
 <word>19</word>
@@ -208,7 +208,7 @@
 <Punctuation> </Punctuation>
 <word>in</word>
 <Punctuation> </Punctuation>
-<word>Sarajevo</word>
+<word ProperNoun='true'>Sarajevo</word>
 <Punctuation>.</Punctuation>
 
 </Sentance>
@@ -244,9 +244,9 @@
 <Punctuation> </Punctuation>
 <word>Kingdom</word>
 <Punctuation> </Punctuation>
-<word>of</word>
+<word ProperNoun='true'>of</word>
 <Punctuation> </Punctuation>
-<word>Serbia</word>
+<word ProperNoun='true'>Serbia</word>
 <Punctuation>,</Punctuation>
 <Punctuation> </Punctuation>
 <word>and</word>

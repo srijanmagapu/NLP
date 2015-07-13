@@ -3,6 +3,7 @@ import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
 
 public class tokenizer {
@@ -33,7 +34,7 @@ public class tokenizer {
 
 	}
 
-	private static String outputXML(File fileBuilder) {
+	private static String outputXML(File fileBuilder) throws IOException {
 		StringBuffer sb = new StringBuffer();
 		sb.append("<?xml version='1.0' encoding='UTF-8' standalone='no' ?>\n");
 		sb.append("<File>\n");
@@ -48,11 +49,19 @@ public class tokenizer {
 				sentenceIndex++;
 				HashMap<Integer, String> words = sentence.getWords();
 				HashMap<Integer, String> punct = sentence.getPunct();
-
+				ArrayList<String> properNouns;
 				sb.append("<Sentance>\n");
+				ProperNouns pn=new ProperNouns();
 				for (int index = 1; true; index++) {
 					if (words.containsKey(index)) {
-						sb.append("<word>" + words.get(index) + "</word>\n");
+					//	System.out.println("FWord: "+pn.getAllNouns().contains(words.get(index)));
+						if(pn.isProperNoun(words.get(index)))
+						{
+						sb.append("<word ProperNoun='true'>" + words.get(index) + "</word>\n");
+						}
+						else{
+							sb.append("<word>" + words.get(index) + "</word>\n");
+						}
 					} else if (punct.containsKey(index)) {
 						sb.append("<Punctuation>" + punct.get(index) + "</Punctuation>\n");
 					} else {
