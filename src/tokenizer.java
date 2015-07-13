@@ -17,7 +17,7 @@ public class tokenizer {
 
 		StringBuilder sb = new StringBuilder();
 
-		br = new BufferedReader(new FileReader("/Users/srijanmagapu/Desktop/NLP_test/nlp_data.txt"));
+		br = new BufferedReader(new FileReader("nlp_data.txt"));
 
 		while ((line = br.readLine()) != null) {
 
@@ -29,16 +29,16 @@ public class tokenizer {
 			fileBuilder.addParagraph(sb.toString());
 		}
 
-		createFile( "/Users/srijanmagapu/Desktop/NLP_test/output.xml", (outputXML(fileBuilder)), false);
+		createFile( "output.xml", (outputXML(fileBuilder)), false);
 
 	}
 
 	private static String outputXML(File fileBuilder) {
 		StringBuffer sb = new StringBuffer();
+		sb.append("<?xml version='1.0' encoding='UTF-8' standalone='no' ?>\n");
 		sb.append("<File>\n");
 		for (Paragraphs paragraphs : fileBuilder.getParagraphs()) {
 			int sentenceIndex = 0;
-			
 			if(paragraphs.getSentence().get(sentenceIndex).getProgressiveWordCount() == 0)
 				continue;
 			
