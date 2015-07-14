@@ -1,315 +1,2715 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<Files>
 <File>
 <Paragraph>
 <Sentance>
-<word>The</word>
-<Punctuation> </Punctuation>
-<word>term</word>
-<Punctuation> </Punctuation>
-<Punctuation>"</Punctuation>
-<word>First</word>
-<Punctuation> </Punctuation>
-<word>World</word>
-<Punctuation> </Punctuation>
-<word>War</word>
-<Punctuation>"</Punctuation>
-<Punctuation> </Punctuation>
-<word>was</word>
-<Punctuation> </Punctuation>
-<word>first</word>
-<Punctuation> </Punctuation>
-<word>used</word>
-<Punctuation> </Punctuation>
-<word>in</word>
-<Punctuation> </Punctuation>
-<word>September</word>
-<Punctuation> </Punctuation>
-<word>1914</word>
-<Punctuation> </Punctuation>
-<word>by</word>
-<Punctuation> </Punctuation>
-<word>the</word>
-<Punctuation> </Punctuation>
-<word>German</word>
-<Punctuation> </Punctuation>
-<word>philosopher</word>
-<Punctuation> </Punctuation>
-<word ProperNoun='true'>Ernst</word>
-<Punctuation> </Punctuation>
-<word ProperNoun='true'>Haeckel</word>
-<Punctuation>,</Punctuation>
-<Punctuation> </Punctuation>
-<word>who</word>
-<Punctuation> </Punctuation>
-<word>claimed</word>
-<Punctuation> </Punctuation>
-<word>that</word>
-<Punctuation> </Punctuation>
-<Punctuation>"</Punctuation>
-<word>there</word>
-<Punctuation> </Punctuation>
-<word>is</word>
-<Punctuation> </Punctuation>
-<word>no</word>
-<Punctuation> </Punctuation>
-<word>doubt</word>
-<Punctuation> </Punctuation>
-<word>that</word>
-<Punctuation> </Punctuation>
-<word>the</word>
-<Punctuation> </Punctuation>
-<word>course</word>
-<Punctuation> </Punctuation>
-<word>and</word>
-<Punctuation> </Punctuation>
-<word>character</word>
-<Punctuation> </Punctuation>
-<word ProperNoun='true'>of</word>
-<Punctuation> </Punctuation>
-<word>the</word>
-<Punctuation> </Punctuation>
-<word>feared</word>
-<Punctuation> </Punctuation>
+<word ProperNoun='true'>Euclid</word>
 <Punctuation>'</Punctuation>
-<word>European</word>
+<word>s</word>
 <Punctuation> </Punctuation>
-<word>War</word>
-<Punctuation>'</Punctuation>
+<word ProperNoun='true'>Elements</word>
 <Punctuation> </Punctuation>
-
-</Sentance>
-<Sentance>
-
-</Sentance>
-<Sentance>
-
-</Sentance>
-<Sentance>
+<word>has</word>
 <Punctuation> </Punctuation>
-<word>will</word>
+<word>been</word>
 <Punctuation> </Punctuation>
-<word>become</word>
-<Punctuation> </Punctuation>
-<word>the</word>
-<Punctuation> </Punctuation>
-<word>first</word>
-<Punctuation> </Punctuation>
-<word>world</word>
-<Punctuation> </Punctuation>
-<word>war</word>
-<Punctuation> </Punctuation>
-<word>in</word>
-<Punctuation> </Punctuation>
-<word>the</word>
-<Punctuation> </Punctuation>
-<word>full</word>
-<Punctuation> </Punctuation>
-<word>sense</word>
-<Punctuation> </Punctuation>
-<word ProperNoun='true'>of</word>
-<Punctuation> </Punctuation>
-<word>the</word>
-<Punctuation> </Punctuation>
-<word>word</word>
-<Punctuation>.</Punctuation>
-
-</Sentance>
-<Sentance>
-<Punctuation>"</Punctuation>
-
-</Sentance>
-
-</Paragraph><Paragraph>
-<Sentance>
-<word>Why</word>
-<Punctuation> </Punctuation>
-<word>did</word>
-<Punctuation> </Punctuation>
-<word>the</word>
-<Punctuation> </Punctuation>
-<word>war</word>
-<Punctuation> </Punctuation>
-<word>begin</word>
-<Punctuation>?</Punctuation>
-<Punctuation> </Punctuation>
-<word>The</word>
-<Punctuation> </Punctuation>
-<word>immediate</word>
-<Punctuation> </Punctuation>
-<word>trigger</word>
-<Punctuation> </Punctuation>
-<word>for</word>
-<Punctuation> </Punctuation>
-<word>war</word>
-<Punctuation> </Punctuation>
-<word>was</word>
-<Punctuation> </Punctuation>
-<word>the</word>
-<Punctuation> </Punctuation>
-<word>28</word>
-<Punctuation> </Punctuation>
-<word>June</word>
-<Punctuation> </Punctuation>
-<word>1914</word>
-<Punctuation> </Punctuation>
-<word>assassination</word>
-<Punctuation> </Punctuation>
-<word ProperNoun='true'>of</word>
-<Punctuation> </Punctuation>
-<word>Archduke</word>
-<Punctuation> </Punctuation>
-<word ProperNoun='true'>Franz</word>
-<Punctuation> </Punctuation>
-<word ProperNoun='true'>Ferdinand</word>
-<Punctuation> </Punctuation>
-<word ProperNoun='true'>of</word>
-<Punctuation> </Punctuation>
-<word>Austria</word>
-<Punctuation>,</Punctuation>
-<Punctuation> </Punctuation>
-<word>heir</word>
+<word>referred</word>
 <Punctuation> </Punctuation>
 <word>to</word>
 <Punctuation> </Punctuation>
-<word>the</word>
-<Punctuation> </Punctuation>
-<word>throne</word>
-<Punctuation> </Punctuation>
-<word ProperNoun='true'>of</word>
-<Punctuation> </Punctuation>
-<word>Austria</word>
-<Punctuation>-</Punctuation>
-<word>Hungary</word>
-<Punctuation>,</Punctuation>
-<Punctuation> </Punctuation>
-<word>by</word>
-<Punctuation> </Punctuation>
-<word>Yugoslav</word>
-<Punctuation> </Punctuation>
-<word>nationalist</word>
-<Punctuation> </Punctuation>
-<word ProperNoun='true'>Gavrilo</word>
-<Punctuation> </Punctuation>
-<word ProperNoun='true'>Princip</word>
-<Punctuation> </Punctuation>
-<Punctuation>(</Punctuation>
-<word>19</word>
-<Punctuation> </Punctuation>
-<word>years</word>
-<Punctuation> </Punctuation>
-<word>old</word>
-<Punctuation> </Punctuation>
-<word>at</word>
+<word>as</word>
 <Punctuation> </Punctuation>
 <word>the</word>
 <Punctuation> </Punctuation>
-<word>time</word>
-<Punctuation>)</Punctuation>
+<word>most</word>
 <Punctuation> </Punctuation>
-<word>in</word>
+<word>successful</word>
 <Punctuation> </Punctuation>
-<word ProperNoun='true'>Sarajevo</word>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>influential</word>
+<Punctuation> </Punctuation>
+<word>textbook</word>
+<Punctuation> </Punctuation>
+<word>ever</word>
+<Punctuation> </Punctuation>
+<word>written</word>
 <Punctuation>.</Punctuation>
 
 </Sentance>
 <Sentance>
 <Punctuation> </Punctuation>
-<word>This</word>
+<word>First</word>
 <Punctuation> </Punctuation>
 <word>set</word>
 <Punctuation> </Punctuation>
-<word>off</word>
+<word>in</word>
 <Punctuation> </Punctuation>
-<word>a</word>
+<word>type</word>
 <Punctuation> </Punctuation>
-<word>diplomatic</word>
+<word>in</word>
 <Punctuation> </Punctuation>
-<word>crisis</word>
+<word ProperNoun='true'>Venice</word>
 <Punctuation> </Punctuation>
-<word>when</word>
+<word>in</word>
 <Punctuation> </Punctuation>
-<word>Austria</word>
-<Punctuation>-</Punctuation>
-<word>Hungary</word>
+<word>1482</word>
+<Punctuation>,</Punctuation>
 <Punctuation> </Punctuation>
-<word>delivered</word>
+<word>it</word>
 <Punctuation> </Punctuation>
-<word>an</word>
+<word>is</word>
 <Punctuation> </Punctuation>
-<word>ultimatum</word>
+<word>one</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>very</word>
+<Punctuation> </Punctuation>
+<word>earliest</word>
+<Punctuation> </Punctuation>
+<word>mathematical</word>
+<Punctuation> </Punctuation>
+<word>works</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>be</word>
+<Punctuation> </Punctuation>
+<word>printed</word>
+<Punctuation> </Punctuation>
+<word>after</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>invention</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>printing</word>
+<Punctuation> </Punctuation>
+<word>press</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>was</word>
+<Punctuation> </Punctuation>
+<word>estimated</word>
+<Punctuation> </Punctuation>
+<word>by</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Carl</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Benjamin</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Boyer</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>be</word>
+<Punctuation> </Punctuation>
+<word>second</word>
+<Punctuation> </Punctuation>
+<word>only</word>
 <Punctuation> </Punctuation>
 <word>to</word>
 <Punctuation> </Punctuation>
 <word>the</word>
 <Punctuation> </Punctuation>
-<word>Kingdom</word>
+<word ProperNoun='true'>Bible</word>
 <Punctuation> </Punctuation>
-<word ProperNoun='true'>of</word>
-<Punctuation> </Punctuation>
-<word ProperNoun='true'>Serbia</word>
-<Punctuation>,</Punctuation>
-<Punctuation> </Punctuation>
-<word>and</word>
-<Punctuation> </Punctuation>
-<word>entangled</word>
-<Punctuation> </Punctuation>
-<word>international</word>
-<Punctuation> </Punctuation>
-<word>alliances</word>
-<Punctuation> </Punctuation>
-<word>formed</word>
-<Punctuation> </Punctuation>
-<word>over</word>
+<word>in</word>
 <Punctuation> </Punctuation>
 <word>the</word>
 <Punctuation> </Punctuation>
-<word>previous</word>
+<word>number</word>
 <Punctuation> </Punctuation>
-<word>decades</word>
+<word ProperNoun='true'>of</word>
 <Punctuation> </Punctuation>
-<word>were</word>
+<word>editions</word>
 <Punctuation> </Punctuation>
-<word>invoked</word>
+<word>published</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>with</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>number</word>
+<Punctuation> </Punctuation>
+<word>reaching</word>
+<Punctuation> </Punctuation>
+<word>well</word>
+<Punctuation> </Punctuation>
+<word>over</word>
+<Punctuation> </Punctuation>
+<word>one</word>
+<Punctuation> </Punctuation>
+<word>thousand</word>
 <Punctuation>.</Punctuation>
 
 </Sentance>
 <Sentance>
 <Punctuation> </Punctuation>
-<word>Within</word>
+<word>For</word>
 <Punctuation> </Punctuation>
-<word>weeks</word>
+<word>centuries</word>
 <Punctuation>,</Punctuation>
 <Punctuation> </Punctuation>
-<word>the</word>
+<word>knowledge</word>
 <Punctuation> </Punctuation>
-<word>major</word>
-<Punctuation> </Punctuation>
-<word>powers</word>
-<Punctuation> </Punctuation>
-<word>were</word>
+<word ProperNoun='true'>of</word>
 <Punctuation> </Punctuation>
 <word>at</word>
 <Punctuation> </Punctuation>
-<word>war</word>
+<word>least</word>
 <Punctuation> </Punctuation>
-<word>and</word>
+<word>part</word>
 <Punctuation> </Punctuation>
-<word>the</word>
-<Punctuation> </Punctuation>
-<word>conflict</word>
-<Punctuation> </Punctuation>
-<word>soon</word>
-<Punctuation> </Punctuation>
-<word>spread</word>
-<Punctuation> </Punctuation>
-<word>around</word>
+<word ProperNoun='true'>of</word>
 <Punctuation> </Punctuation>
 <word>the</word>
 <Punctuation> </Punctuation>
-<word>world</word>
+<word ProperNoun='true'>Elements</word>
+<Punctuation> </Punctuation>
+<word>was</word>
+<Punctuation> </Punctuation>
+<word>required</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>all</word>
+<Punctuation> </Punctuation>
+<word>students</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>Not</word>
+<Punctuation> </Punctuation>
+<word>until</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>20th</word>
+<Punctuation> </Punctuation>
+<word>century</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>by</word>
+<Punctuation> </Punctuation>
+<word>which</word>
+<Punctuation> </Punctuation>
+<word>time</word>
+<Punctuation> </Punctuation>
+<word>its</word>
+<Punctuation> </Punctuation>
+<word>content</word>
+<Punctuation> </Punctuation>
+<word>was</word>
+<Punctuation> </Punctuation>
+<word>universally</word>
+<Punctuation> </Punctuation>
+<word>taught</word>
+<Punctuation> </Punctuation>
+<word>through</word>
+<Punctuation> </Punctuation>
+<word>other</word>
+<Punctuation> </Punctuation>
+<word>school</word>
+<Punctuation> </Punctuation>
+<word>textbooks</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>did</word>
+<Punctuation> </Punctuation>
+<word>it</word>
+<Punctuation> </Punctuation>
+<word>cease</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>be</word>
+<Punctuation> </Punctuation>
+<word>considered</word>
+<Punctuation> </Punctuation>
+<word>something</word>
+<Punctuation> </Punctuation>
+<word>all</word>
+<Punctuation> </Punctuation>
+<word>educated</word>
+<Punctuation> </Punctuation>
+<word>people</word>
+<Punctuation> </Punctuation>
+<word>had</word>
+<Punctuation> </Punctuation>
+<word>read</word>
 <Punctuation>.</Punctuation>
 
 </Sentance>
 
 </Paragraph>
-</File>
+</File><File>
+<Paragraph>
+<Sentance>
+<word>The</word>
+<Punctuation> </Punctuation>
+<word>Broyden</word>
+<Punctuation>–</Punctuation>
+<word>Fletcher</word>
+<Punctuation>–</Punctuation>
+<word>Goldfarb</word>
+<Punctuation>–</Punctuation>
+<word>Shanno</word>
+<Punctuation> </Punctuation>
+<Punctuation>(</Punctuation>
+<word ProperNoun='true'>BFGS</word>
+<Punctuation>)</Punctuation>
+<Punctuation> </Punctuation>
+<word>algorithm</word>
+<Punctuation> </Punctuation>
+<word>is</word>
+<Punctuation> </Punctuation>
+<word>an</word>
+<Punctuation> </Punctuation>
+<word>iterative</word>
+<Punctuation> </Punctuation>
+<word>method</word>
+<Punctuation> </Punctuation>
+<word>for</word>
+<Punctuation> </Punctuation>
+<word>solving</word>
+<Punctuation> </Punctuation>
+<word>unconstrained</word>
+<Punctuation> </Punctuation>
+<word>nonlinear</word>
+<Punctuation> </Punctuation>
+<word>optimization</word>
+<Punctuation> </Punctuation>
+<word>problems</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>The</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>BFGS</word>
+<Punctuation> </Punctuation>
+<word>method</word>
+<Punctuation> </Punctuation>
+<word>approximates</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Newton</word>
+<Punctuation>'</Punctuation>
+<word>s</word>
+<Punctuation> </Punctuation>
+<word>method</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>class</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>hill</word>
+<Punctuation>-</Punctuation>
+<word>climbing</word>
+<Punctuation> </Punctuation>
+<word>optimization</word>
+<Punctuation> </Punctuation>
+<word>techniques</word>
+<Punctuation> </Punctuation>
+<word>that</word>
+<Punctuation> </Punctuation>
+<word>seeks</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>stationary</word>
+<Punctuation> </Punctuation>
+<word>point</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<Punctuation>(</Punctuation>
+<word>preferably</word>
+<Punctuation> </Punctuation>
+<word>twice</word>
+<Punctuation> </Punctuation>
+<word>continuously</word>
+<Punctuation> </Punctuation>
+<word>differentiable</word>
+<Punctuation>)</Punctuation>
+<Punctuation> </Punctuation>
+<word>function</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>For</word>
+<Punctuation> </Punctuation>
+<word>such</word>
+<Punctuation> </Punctuation>
+<word>problems</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>necessary</word>
+<Punctuation> </Punctuation>
+<word>condition</word>
+<Punctuation> </Punctuation>
+<word>for</word>
+<Punctuation> </Punctuation>
+<word>optimality</word>
+<Punctuation> </Punctuation>
+<word>is</word>
+<Punctuation> </Punctuation>
+<word>that</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>gradient</word>
+<Punctuation> </Punctuation>
+<word>be</word>
+<Punctuation> </Punctuation>
+<word>zero</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Newton</word>
+<Punctuation>'</Punctuation>
+<word>s</word>
+<Punctuation> </Punctuation>
+<word>method</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>BFGS</word>
+<Punctuation> </Punctuation>
+<word>methods</word>
+<Punctuation> </Punctuation>
+<word>are</word>
+<Punctuation> </Punctuation>
+<word>not</word>
+<Punctuation> </Punctuation>
+<word>guaranteed</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>converge</word>
+<Punctuation> </Punctuation>
+<word>unless</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>function</word>
+<Punctuation> </Punctuation>
+<word>has</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>quadratic</word>
+<Punctuation> </Punctuation>
+<word>Taylor</word>
+<Punctuation> </Punctuation>
+<word>expansion</word>
+<Punctuation> </Punctuation>
+<word>near</word>
+<Punctuation> </Punctuation>
+<word>an</word>
+<Punctuation> </Punctuation>
+<word>optimum</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>These</word>
+<Punctuation> </Punctuation>
+<word>methods</word>
+<Punctuation> </Punctuation>
+<word>use</word>
+<Punctuation> </Punctuation>
+<word>both</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>first</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>second</word>
+<Punctuation> </Punctuation>
+<word>derivatives</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>function</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>However</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>BFGS</word>
+<Punctuation> </Punctuation>
+<word>has</word>
+<Punctuation> </Punctuation>
+<word>proven</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>have</word>
+<Punctuation> </Punctuation>
+<word>good</word>
+<Punctuation> </Punctuation>
+<word>performance</word>
+<Punctuation> </Punctuation>
+<word>even</word>
+<Punctuation> </Punctuation>
+<word>for</word>
+<Punctuation> </Punctuation>
+<word>non</word>
+<Punctuation>-</Punctuation>
+<word>smooth</word>
+<Punctuation> </Punctuation>
+<word>optimizations</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+
+</Paragraph>
+</File><File>
+<Paragraph>
+<Sentance>
+<word ProperNoun='true'>Montgomery</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Castle</word>
+<Punctuation> </Punctuation>
+<word>is</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>stone</word>
+<Punctuation> </Punctuation>
+<word>masonry</word>
+<Punctuation> </Punctuation>
+<word>castle</word>
+<Punctuation> </Punctuation>
+<word>looking</word>
+<Punctuation> </Punctuation>
+<word>over</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>town</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Montgomery</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Powys</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Wales</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>It</word>
+<Punctuation> </Punctuation>
+<word>is</word>
+<Punctuation> </Punctuation>
+<word>one</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>many</word>
+<Punctuation> </Punctuation>
+<word>Norman</word>
+<Punctuation> </Punctuation>
+<word>castles</word>
+<Punctuation> </Punctuation>
+<word>on</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>border</word>
+<Punctuation> </Punctuation>
+<word>between</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Wales</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>England</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>The</word>
+<Punctuation> </Punctuation>
+<word>original</word>
+<Punctuation> </Punctuation>
+<word>castle</word>
+<Punctuation> </Punctuation>
+<word>was</word>
+<Punctuation> </Punctuation>
+<word>built</word>
+<Punctuation> </Punctuation>
+<word>at</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>order</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Roger</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>de</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Montgomery</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>earl</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Shrewsbury</word>
+<Punctuation> </Punctuation>
+<word>sometime</word>
+<Punctuation> </Punctuation>
+<word>between</word>
+<Punctuation> </Punctuation>
+<word>1071</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>1074</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>On</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>rebellion</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>his</word>
+<Punctuation> </Punctuation>
+<word>son</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Robert</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Belleme</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>1102</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>castle</word>
+<Punctuation> </Punctuation>
+<word>was</word>
+<Punctuation> </Punctuation>
+<word>given</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>Baldwin</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>de</word>
+<Punctuation> </Punctuation>
+<word>Boulers</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>In</word>
+<Punctuation> </Punctuation>
+<word>1267</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Montgomery</word>
+<Punctuation> </Punctuation>
+<word>was</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>meeting</word>
+<Punctuation> </Punctuation>
+<word>place</word>
+<Punctuation> </Punctuation>
+<word>for</word>
+<Punctuation> </Punctuation>
+<word>treaty</word>
+<Punctuation> </Punctuation>
+<word>negotiations</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>where</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>King</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Henry</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>III</word>
+<Punctuation> </Punctuation>
+<word>granted</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Llywelyn</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>ap</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Gruffudd</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>title</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Prince</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Wales</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>After</word>
+<Punctuation> </Punctuation>
+<word>1295</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>final</word>
+<Punctuation> </Punctuation>
+<word>Welsh</word>
+<Punctuation> </Punctuation>
+<word>War</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>thirteenth</word>
+<Punctuation> </Punctuation>
+<word>century</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>castle</word>
+<Punctuation> </Punctuation>
+<word>became</word>
+<Punctuation> </Punctuation>
+<word>more</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>military</word>
+<Punctuation> </Punctuation>
+<word>backwater</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>prison</word>
+<Punctuation> </Punctuation>
+<word>than</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>front</word>
+<Punctuation> </Punctuation>
+<word>line</word>
+<Punctuation> </Punctuation>
+<word>fortress</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+
+</Paragraph>
+</File><File>
+<Paragraph>
+<Sentance>
+<word>The</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Antikythera</word>
+<Punctuation> </Punctuation>
+<word>mechanism</word>
+<Punctuation> </Punctuation>
+<word>is</word>
+<Punctuation> </Punctuation>
+<word>an</word>
+<Punctuation> </Punctuation>
+<word>ancient</word>
+<Punctuation> </Punctuation>
+<word>analog</word>
+<Punctuation> </Punctuation>
+<word>computer</word>
+<Punctuation> </Punctuation>
+<word>designed</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>predict</word>
+<Punctuation> </Punctuation>
+<word>astronomical</word>
+<Punctuation> </Punctuation>
+<word>positions</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>eclipses</word>
+<Punctuation> </Punctuation>
+<word>for</word>
+<Punctuation> </Punctuation>
+<word>calendrical</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>astrological</word>
+<Punctuation> </Punctuation>
+<word>purposes</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>as</word>
+<Punctuation> </Punctuation>
+<word>well</word>
+<Punctuation> </Punctuation>
+<word>as</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>cycles</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Olympic</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Games</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+
+</Paragraph><Paragraph>
+<Sentance>
+<word>Found</word>
+<Punctuation> </Punctuation>
+<word>housed</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>340</word>
+<Punctuation> </Punctuation>
+<Punctuation>×</Punctuation>
+<Punctuation> </Punctuation>
+<word>180</word>
+<Punctuation> </Punctuation>
+<Punctuation>×</Punctuation>
+<Punctuation> </Punctuation>
+<word>90</word>
+<Punctuation> </Punctuation>
+<word>mm</word>
+<Punctuation> </Punctuation>
+<word>wooden</word>
+<Punctuation> </Punctuation>
+<word>box</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>device</word>
+<Punctuation> </Punctuation>
+<word>is</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>complex</word>
+<Punctuation> </Punctuation>
+<word>clockwork</word>
+<Punctuation> </Punctuation>
+<word>mechanism</word>
+<Punctuation> </Punctuation>
+<word>composed</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>at</word>
+<Punctuation> </Punctuation>
+<word>least</word>
+<Punctuation> </Punctuation>
+<word>30</word>
+<Punctuation> </Punctuation>
+<word>meshing</word>
+<Punctuation> </Punctuation>
+<word>bronze</word>
+<Punctuation> </Punctuation>
+<word>gears</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>Its</word>
+<Punctuation> </Punctuation>
+<word>remains</word>
+<Punctuation> </Punctuation>
+<word>were</word>
+<Punctuation> </Punctuation>
+<word>found</word>
+<Punctuation> </Punctuation>
+<word>as</word>
+<Punctuation> </Punctuation>
+<word>82</word>
+<Punctuation> </Punctuation>
+<word>separate</word>
+<Punctuation> </Punctuation>
+<word>fragments</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>which</word>
+<Punctuation> </Punctuation>
+<word>only</word>
+<Punctuation> </Punctuation>
+<word>seven</word>
+<Punctuation> </Punctuation>
+<word>contain</word>
+<Punctuation> </Punctuation>
+<word>any</word>
+<Punctuation> </Punctuation>
+<word>gears</word>
+<Punctuation> </Punctuation>
+<word>or</word>
+<Punctuation> </Punctuation>
+<word>significant</word>
+<Punctuation> </Punctuation>
+<word>inscriptions</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>The</word>
+<Punctuation> </Punctuation>
+<word>largest</word>
+<Punctuation> </Punctuation>
+<word>gear</word>
+<Punctuation> </Punctuation>
+<word>is</word>
+<Punctuation> </Punctuation>
+<word>approximately</word>
+<Punctuation> </Punctuation>
+<word>140</word>
+<Punctuation> </Punctuation>
+<word>mm</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>diameter</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+
+</Paragraph><Paragraph>
+<Sentance>
+<word>The</word>
+<Punctuation> </Punctuation>
+<word>artifact</word>
+<Punctuation> </Punctuation>
+<word>was</word>
+<Punctuation> </Punctuation>
+<word>recovered</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>1901</word>
+<Punctuation> </Punctuation>
+<word>from</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Antikythera</word>
+<Punctuation> </Punctuation>
+<word>shipwreck</word>
+<Punctuation> </Punctuation>
+<word>off</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>Greek</word>
+<Punctuation> </Punctuation>
+<word>island</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Antikythera</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>Believed</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>have</word>
+<Punctuation> </Punctuation>
+<word>been</word>
+<Punctuation> </Punctuation>
+<word>designed</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>constructed</word>
+<Punctuation> </Punctuation>
+<word>by</word>
+<Punctuation> </Punctuation>
+<word>Greek</word>
+<Punctuation> </Punctuation>
+<word>scientists</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>instrument</word>
+<Punctuation> </Punctuation>
+<word>has</word>
+<Punctuation> </Punctuation>
+<word>been</word>
+<Punctuation> </Punctuation>
+<word>dated</word>
+<Punctuation> </Punctuation>
+<word>either</word>
+<Punctuation> </Punctuation>
+<word>between</word>
+<Punctuation> </Punctuation>
+<word>150</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>100</word>
+<Punctuation> </Punctuation>
+<word>BC</word>
+<Punctuation> </Punctuation>
+<word>or</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>according</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>more</word>
+<Punctuation> </Punctuation>
+<word>recent</word>
+<Punctuation> </Punctuation>
+<word>view</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>at</word>
+<Punctuation> </Punctuation>
+<word>205</word>
+<Punctuation> </Punctuation>
+<word>BC</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+
+</Paragraph>
+</File><File>
+<Paragraph>
+<Sentance>
+<word>Horseshoe</word>
+<Punctuation> </Punctuation>
+<word>crabs</word>
+<Punctuation> </Punctuation>
+<word>are</word>
+<Punctuation> </Punctuation>
+<word>marine</word>
+<Punctuation> </Punctuation>
+<word>arthropods</word>
+<Punctuation> </Punctuation>
+<word>that</word>
+<Punctuation> </Punctuation>
+<word>live</word>
+<Punctuation> </Punctuation>
+<word>primarily</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>around</word>
+<Punctuation> </Punctuation>
+<word>shallow</word>
+<Punctuation> </Punctuation>
+<word>ocean</word>
+<Punctuation> </Punctuation>
+<word>waters</word>
+<Punctuation> </Punctuation>
+<word>on</word>
+<Punctuation> </Punctuation>
+<word>soft</word>
+<Punctuation> </Punctuation>
+<word>sandy</word>
+<Punctuation> </Punctuation>
+<word>or</word>
+<Punctuation> </Punctuation>
+<word>muddy</word>
+<Punctuation> </Punctuation>
+<word>bottoms</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>They</word>
+<Punctuation> </Punctuation>
+<word>occasionally</word>
+<Punctuation> </Punctuation>
+<word>come</word>
+<Punctuation> </Punctuation>
+<word>onto</word>
+<Punctuation> </Punctuation>
+<word>shore</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>mate</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>They</word>
+<Punctuation> </Punctuation>
+<word>are</word>
+<Punctuation> </Punctuation>
+<word>commonly</word>
+<Punctuation> </Punctuation>
+<word>used</word>
+<Punctuation> </Punctuation>
+<word>as</word>
+<Punctuation> </Punctuation>
+<word>bait</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>fertilizer</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>In</word>
+<Punctuation> </Punctuation>
+<word>recent</word>
+<Punctuation> </Punctuation>
+<word>years</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>decline</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>population</word>
+<Punctuation> </Punctuation>
+<word>has</word>
+<Punctuation> </Punctuation>
+<word>occurred</word>
+<Punctuation> </Punctuation>
+<word>as</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>consequence</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>coastal</word>
+<Punctuation> </Punctuation>
+<word>habitat</word>
+<Punctuation> </Punctuation>
+<word>destruction</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Japan</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>overharvesting</word>
+<Punctuation> </Punctuation>
+<word>along</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>east</word>
+<Punctuation> </Punctuation>
+<word>coast</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>North</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>America</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+
+</Sentance>
+
+</Paragraph><Paragraph>
+<Sentance>
+<word>Because</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>their</word>
+<Punctuation> </Punctuation>
+<word>origin</word>
+<Punctuation> </Punctuation>
+<word>450</word>
+<Punctuation> </Punctuation>
+<word>million</word>
+<Punctuation> </Punctuation>
+<word>years</word>
+<Punctuation> </Punctuation>
+<word>ago</word>
+<Punctuation> </Punctuation>
+<Punctuation>(</Punctuation>
+<word>Mya</word>
+<Punctuation>)</Punctuation>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>horseshoe</word>
+<Punctuation> </Punctuation>
+<word>crabs</word>
+<Punctuation> </Punctuation>
+<word>are</word>
+<Punctuation> </Punctuation>
+<word>considered</word>
+<Punctuation> </Punctuation>
+<word>living</word>
+<Punctuation> </Punctuation>
+<word>fossils</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>Horseshoe</word>
+<Punctuation> </Punctuation>
+<word>crabs</word>
+<Punctuation> </Punctuation>
+<word>resemble</word>
+<Punctuation> </Punctuation>
+<word>crustaceans</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>but</word>
+<Punctuation> </Punctuation>
+<word>belong</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>separate</word>
+<Punctuation> </Punctuation>
+<word>subphylum</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>are</word>
+<Punctuation> </Punctuation>
+<word>closely</word>
+<Punctuation> </Punctuation>
+<word>related</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>arachnids</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>The</word>
+<Punctuation> </Punctuation>
+<word>earliest</word>
+<Punctuation> </Punctuation>
+<word>horseshoe</word>
+<Punctuation> </Punctuation>
+<word>crab</word>
+<Punctuation> </Punctuation>
+<word>fossils</word>
+<Punctuation> </Punctuation>
+<word>are</word>
+<Punctuation> </Punctuation>
+<word>found</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>strata</word>
+<Punctuation> </Punctuation>
+<word>from</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>late</word>
+<Punctuation> </Punctuation>
+<word>Ordovician</word>
+<Punctuation> </Punctuation>
+<word>period</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>roughly</word>
+<Punctuation> </Punctuation>
+<word>450</word>
+<Punctuation> </Punctuation>
+<word>Mya</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+
+</Paragraph>
+</File><File>
+<Paragraph>
+<Sentance>
+<word>A</word>
+<Punctuation> </Punctuation>
+<word>differentiable</word>
+<Punctuation> </Punctuation>
+<word>manifold</word>
+<Punctuation> </Punctuation>
+<word>is</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>type</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>manifold</word>
+<Punctuation> </Punctuation>
+<word>that</word>
+<Punctuation> </Punctuation>
+<word>is</word>
+<Punctuation> </Punctuation>
+<word>locally</word>
+<Punctuation> </Punctuation>
+<word>similar</word>
+<Punctuation> </Punctuation>
+<word>enough</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>linear</word>
+<Punctuation> </Punctuation>
+<word>space</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>allow</word>
+<Punctuation> </Punctuation>
+<word>one</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>do</word>
+<Punctuation> </Punctuation>
+<word>calculus</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>Any</word>
+<Punctuation> </Punctuation>
+<word>manifold</word>
+<Punctuation> </Punctuation>
+<word>can</word>
+<Punctuation> </Punctuation>
+<word>be</word>
+<Punctuation> </Punctuation>
+<word>described</word>
+<Punctuation> </Punctuation>
+<word>by</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>collection</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>charts</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>also</word>
+<Punctuation> </Punctuation>
+<word>known</word>
+<Punctuation> </Punctuation>
+<word>as</word>
+<Punctuation> </Punctuation>
+<word>an</word>
+<Punctuation> </Punctuation>
+<word>atlas</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>One</word>
+<Punctuation> </Punctuation>
+<word>may</word>
+<Punctuation> </Punctuation>
+<word>then</word>
+<Punctuation> </Punctuation>
+<word>apply</word>
+<Punctuation> </Punctuation>
+<word>ideas</word>
+<Punctuation> </Punctuation>
+<word>from</word>
+<Punctuation> </Punctuation>
+<word>calculus</word>
+<Punctuation> </Punctuation>
+<word>while</word>
+<Punctuation> </Punctuation>
+<word>working</word>
+<Punctuation> </Punctuation>
+<word>within</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>individual</word>
+<Punctuation> </Punctuation>
+<word>charts</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>since</word>
+<Punctuation> </Punctuation>
+<word>each</word>
+<Punctuation> </Punctuation>
+<word>chart</word>
+<Punctuation> </Punctuation>
+<word>lies</word>
+<Punctuation> </Punctuation>
+<word>within</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>linear</word>
+<Punctuation> </Punctuation>
+<word>space</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>which</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>usual</word>
+<Punctuation> </Punctuation>
+<word>rules</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>calculus</word>
+<Punctuation> </Punctuation>
+<word>apply</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>If</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>charts</word>
+<Punctuation> </Punctuation>
+<word>are</word>
+<Punctuation> </Punctuation>
+<word>suitably</word>
+<Punctuation> </Punctuation>
+<word>compatible</word>
+<Punctuation> </Punctuation>
+<Punctuation>(</Punctuation>
+<word>namely</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>transition</word>
+<Punctuation> </Punctuation>
+<word>from</word>
+<Punctuation> </Punctuation>
+<word>one</word>
+<Punctuation> </Punctuation>
+<word>chart</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>another</word>
+<Punctuation> </Punctuation>
+<word>is</word>
+<Punctuation> </Punctuation>
+<word>differentiable</word>
+<Punctuation>)</Punctuation>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>then</word>
+<Punctuation> </Punctuation>
+<word>computations</word>
+<Punctuation> </Punctuation>
+<word>done</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>one</word>
+<Punctuation> </Punctuation>
+<word>chart</word>
+<Punctuation> </Punctuation>
+<word>are</word>
+<Punctuation> </Punctuation>
+<word>valid</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>any</word>
+<Punctuation> </Punctuation>
+<word>other</word>
+<Punctuation> </Punctuation>
+<word>differentiable</word>
+<Punctuation> </Punctuation>
+<word>chart</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+
+</Paragraph>
+</File><File>
+<Paragraph>
+<Sentance>
+<word ProperNoun='true'>Sun</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Microsystems</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>Inc</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>was</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>company</word>
+<Punctuation> </Punctuation>
+<word>that</word>
+<Punctuation> </Punctuation>
+<word>sold</word>
+<Punctuation> </Punctuation>
+<word>computers</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>computer</word>
+<Punctuation> </Punctuation>
+<word>components</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>computer</word>
+<Punctuation> </Punctuation>
+<word>software</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>information</word>
+<Punctuation> </Punctuation>
+<word>technology</word>
+<Punctuation> </Punctuation>
+<word>services</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>that</word>
+<Punctuation> </Punctuation>
+<word>created</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>Java</word>
+<Punctuation> </Punctuation>
+<word>programming</word>
+<Punctuation> </Punctuation>
+<word>language</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>Network</word>
+<Punctuation> </Punctuation>
+<word>File</word>
+<Punctuation> </Punctuation>
+<word>System</word>
+<Punctuation> </Punctuation>
+<Punctuation>(</Punctuation>
+<word>NFS</word>
+<Punctuation>)</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Sun</word>
+<Punctuation> </Punctuation>
+<word>significantly</word>
+<Punctuation> </Punctuation>
+<word>evolved</word>
+<Punctuation> </Punctuation>
+<word>several</word>
+<Punctuation> </Punctuation>
+<word>key</word>
+<Punctuation> </Punctuation>
+<word>computing</word>
+<Punctuation> </Punctuation>
+<word>technologies</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>among</word>
+<Punctuation> </Punctuation>
+<word>them</word>
+<Punctuation> </Punctuation>
+<word>Unix</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>RISC</word>
+<Punctuation> </Punctuation>
+<word>processors</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>thin</word>
+<Punctuation> </Punctuation>
+<word>client</word>
+<Punctuation> </Punctuation>
+<word>computing</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>virtualized</word>
+<Punctuation> </Punctuation>
+<word>computing</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Sun</word>
+<Punctuation> </Punctuation>
+<word>was</word>
+<Punctuation> </Punctuation>
+<word>founded</word>
+<Punctuation> </Punctuation>
+<word>on</word>
+<Punctuation> </Punctuation>
+<word>February</word>
+<Punctuation> </Punctuation>
+<word>24</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>1982</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+
+</Paragraph><Paragraph>
+<Sentance>
+<word>On</word>
+<Punctuation> </Punctuation>
+<word>January</word>
+<Punctuation> </Punctuation>
+<word>27</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>2010</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Sun</word>
+<Punctuation> </Punctuation>
+<word>was</word>
+<Punctuation> </Punctuation>
+<word>acquired</word>
+<Punctuation> </Punctuation>
+<word>by</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Oracle</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Corporation</word>
+<Punctuation> </Punctuation>
+<word>for</word>
+<Punctuation> </Punctuation>
+<word>US</word>
+<Punctuation> </Punctuation>
+<Punctuation>$</Punctuation>
+<word>7</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<word>4</word>
+<Punctuation> </Punctuation>
+<word>billion</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>The</word>
+<Punctuation> </Punctuation>
+<word>following</word>
+<Punctuation> </Punctuation>
+<word>month</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Sun</word>
+<Punctuation> </Punctuation>
+<word>was</word>
+<Punctuation> </Punctuation>
+<word>merged</word>
+<Punctuation> </Punctuation>
+<word>with</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Oracle</word>
+<Punctuation> </Punctuation>
+<word>USA</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>Inc</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>become</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Oracle</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>America</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>Inc</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+
+</Paragraph>
+</File><File>
+<Paragraph>
+<Sentance>
+<word ProperNoun='true'>Apollo</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>11</word>
+<Punctuation> </Punctuation>
+<word>was</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>spaceflight</word>
+<Punctuation> </Punctuation>
+<word>that</word>
+<Punctuation> </Punctuation>
+<word>landed</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>first</word>
+<Punctuation> </Punctuation>
+<word>humans</word>
+<Punctuation> </Punctuation>
+<word>on</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Moon</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>Americans</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Neil</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Armstrong</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Buzz</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Aldrin</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>on</word>
+<Punctuation> </Punctuation>
+<word>July</word>
+<Punctuation> </Punctuation>
+<word>20</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>1969</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Armstrong</word>
+<Punctuation> </Punctuation>
+<word>became</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>first</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>step</word>
+<Punctuation> </Punctuation>
+<word>onto</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>lunar</word>
+<Punctuation> </Punctuation>
+<word>surface</word>
+<Punctuation> </Punctuation>
+<word>six</word>
+<Punctuation> </Punctuation>
+<word>hours</word>
+<Punctuation> </Punctuation>
+<word>later</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Armstrong</word>
+<Punctuation> </Punctuation>
+<word>spent</word>
+<Punctuation> </Punctuation>
+<word>about</word>
+<Punctuation> </Punctuation>
+<word>two</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>half</word>
+<Punctuation> </Punctuation>
+<word>hours</word>
+<Punctuation> </Punctuation>
+<word>outside</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>spacecraft</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Aldrin</word>
+<Punctuation> </Punctuation>
+<word>slightly</word>
+<Punctuation> </Punctuation>
+<word>less</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>together</word>
+<Punctuation> </Punctuation>
+<word>they</word>
+<Punctuation> </Punctuation>
+<word>collected</word>
+<Punctuation> </Punctuation>
+<word>47</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<word>5</word>
+<Punctuation> </Punctuation>
+<word>pounds</word>
+<Punctuation> </Punctuation>
+<Punctuation>(</Punctuation>
+<word>21</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<word>5</word>
+<Punctuation> </Punctuation>
+<word>kg</word>
+<Punctuation>)</Punctuation>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>lunar</word>
+<Punctuation> </Punctuation>
+<word>material</word>
+<Punctuation> </Punctuation>
+<word>for</word>
+<Punctuation> </Punctuation>
+<word>return</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Earth</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>The</word>
+<Punctuation> </Punctuation>
+<word>third</word>
+<Punctuation> </Punctuation>
+<word>member</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>mission</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Michael</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Collins</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>piloted</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>command</word>
+<Punctuation> </Punctuation>
+<word>spacecraft</word>
+<Punctuation> </Punctuation>
+<word>alone</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>lunar</word>
+<Punctuation> </Punctuation>
+<word>orbit</word>
+<Punctuation> </Punctuation>
+<word>until</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Armstrong</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Aldrin</word>
+<Punctuation> </Punctuation>
+<word>returned</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>it</word>
+<Punctuation> </Punctuation>
+<word>just</word>
+<Punctuation> </Punctuation>
+<word>under</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>day</word>
+<Punctuation> </Punctuation>
+<word>later</word>
+<Punctuation> </Punctuation>
+<word>for</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>trip</word>
+<Punctuation> </Punctuation>
+<word>back</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Earth</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+
+</Paragraph>
+</File><File>
+<Paragraph>
+<Sentance>
+<word>The</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Apollo</word>
+<Punctuation> </Punctuation>
+<word>spacecraft</word>
+<Punctuation> </Punctuation>
+<word>had</word>
+<Punctuation> </Punctuation>
+<word>three</word>
+<Punctuation> </Punctuation>
+<word>parts</word>
+<Punctuation>:</Punctuation>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>Command</word>
+<Punctuation> </Punctuation>
+<word>Module</word>
+<Punctuation> </Punctuation>
+<word>with</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>cabin</word>
+<Punctuation> </Punctuation>
+<word>for</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>three</word>
+<Punctuation> </Punctuation>
+<word>astronauts</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>only</word>
+<Punctuation> </Punctuation>
+<word>part</word>
+<Punctuation> </Punctuation>
+<word>that</word>
+<Punctuation> </Punctuation>
+<word>landed</word>
+<Punctuation> </Punctuation>
+<word>back</word>
+<Punctuation> </Punctuation>
+<word>on</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Earth</word>
+<Punctuation>;</Punctuation>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>Service</word>
+<Punctuation> </Punctuation>
+<word>Module</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>which</word>
+<Punctuation> </Punctuation>
+<word>supported</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>Command</word>
+<Punctuation> </Punctuation>
+<word>Module</word>
+<Punctuation> </Punctuation>
+<word>with</word>
+<Punctuation> </Punctuation>
+<word>propulsion</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>electrical</word>
+<Punctuation> </Punctuation>
+<word>power</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>oxygen</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>water</word>
+<Punctuation>;</Punctuation>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>Lunar</word>
+<Punctuation> </Punctuation>
+<word>Module</word>
+<Punctuation> </Punctuation>
+<word>for</word>
+<Punctuation> </Punctuation>
+<word>landing</word>
+<Punctuation> </Punctuation>
+<word>on</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Moon</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>After</word>
+<Punctuation> </Punctuation>
+<word>being</word>
+<Punctuation> </Punctuation>
+<word>sent</word>
+<Punctuation> </Punctuation>
+<word>toward</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Moon</word>
+<Punctuation> </Punctuation>
+<word>by</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>Saturn</word>
+<Punctuation> </Punctuation>
+<word>V</word>
+<Punctuation>'</Punctuation>
+<word>s</word>
+<Punctuation> </Punctuation>
+<word>upper</word>
+<Punctuation> </Punctuation>
+<word>stage</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>astronauts</word>
+<Punctuation> </Punctuation>
+<word>separated</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>spacecraft</word>
+<Punctuation> </Punctuation>
+<word>from</word>
+<Punctuation> </Punctuation>
+<word>it</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>traveled</word>
+<Punctuation> </Punctuation>
+<word>for</word>
+<Punctuation> </Punctuation>
+<word>three</word>
+<Punctuation> </Punctuation>
+<word>days</word>
+<Punctuation> </Punctuation>
+<word>until</word>
+<Punctuation> </Punctuation>
+<word>they</word>
+<Punctuation> </Punctuation>
+<word>entered</word>
+<Punctuation> </Punctuation>
+<word>into</word>
+<Punctuation> </Punctuation>
+<word>lunar</word>
+<Punctuation> </Punctuation>
+<word>orbit</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Armstrong</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Aldrin</word>
+<Punctuation> </Punctuation>
+<word>then</word>
+<Punctuation> </Punctuation>
+<word>moved</word>
+<Punctuation> </Punctuation>
+<word>into</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>Lunar</word>
+<Punctuation> </Punctuation>
+<word>Module</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>landed</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Sea</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Tranquility</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>They</word>
+<Punctuation> </Punctuation>
+<word>stayed</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>total</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>about</word>
+<Punctuation> </Punctuation>
+<word>21</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<word>5</word>
+<Punctuation> </Punctuation>
+<word>hours</word>
+<Punctuation> </Punctuation>
+<word>on</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>lunar</word>
+<Punctuation> </Punctuation>
+<word>surface</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>After</word>
+<Punctuation> </Punctuation>
+<word>lifting</word>
+<Punctuation> </Punctuation>
+<word>off</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>upper</word>
+<Punctuation> </Punctuation>
+<word>part</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>Lunar</word>
+<Punctuation> </Punctuation>
+<word>Module</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>rejoining</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Collins</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>Command</word>
+<Punctuation> </Punctuation>
+<word>Module</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>they</word>
+<Punctuation> </Punctuation>
+<word>returned</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Earth</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>landed</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Pacific</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Ocean</word>
+<Punctuation> </Punctuation>
+<word>on</word>
+<Punctuation> </Punctuation>
+<word>July</word>
+<Punctuation> </Punctuation>
+<word>24</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+
+</Paragraph>
+</File><File>
+<Paragraph>
+<Sentance>
+<word ProperNoun='true'>James</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Clerk</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Maxwell</word>
+<Punctuation> </Punctuation>
+
+</Sentance>
+
+</Paragraph><Paragraph>
+<Sentance>
+<word>was</word>
+<Punctuation> </Punctuation>
+<word>a</word>
+<Punctuation> </Punctuation>
+<word>Scottish</word>
+<Punctuation> </Punctuation>
+<word>mathematical</word>
+<Punctuation> </Punctuation>
+<word>physicist</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>His</word>
+<Punctuation> </Punctuation>
+<word>most</word>
+<Punctuation> </Punctuation>
+<word>notable</word>
+<Punctuation> </Punctuation>
+<word>achievement</word>
+<Punctuation> </Punctuation>
+<word>was</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>formulate</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>classical</word>
+<Punctuation> </Punctuation>
+<word>theory</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>electromagnetic</word>
+<Punctuation> </Punctuation>
+<word>radiation</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>bringing</word>
+<Punctuation> </Punctuation>
+<word>together</word>
+<Punctuation> </Punctuation>
+<word>for</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>first</word>
+<Punctuation> </Punctuation>
+<word>time</word>
+<Punctuation> </Punctuation>
+<word>electricity</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>magnetism</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>light</word>
+<Punctuation> </Punctuation>
+<word>as</word>
+<Punctuation> </Punctuation>
+<word>manifestations</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>same</word>
+<Punctuation> </Punctuation>
+<word>phenomenon</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Maxwell</word>
+<Punctuation>'</Punctuation>
+<word>s</word>
+<Punctuation> </Punctuation>
+<word>equations</word>
+<Punctuation> </Punctuation>
+<word>for</word>
+<Punctuation> </Punctuation>
+<word>electromagnetism</word>
+<Punctuation> </Punctuation>
+<word>have</word>
+<Punctuation> </Punctuation>
+<word>been</word>
+<Punctuation> </Punctuation>
+<word>called</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<Punctuation>"</Punctuation>
+<word>second</word>
+<Punctuation> </Punctuation>
+<word>great</word>
+<Punctuation> </Punctuation>
+<word>unification</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>physics</word>
+<Punctuation>"</Punctuation>
+<Punctuation> </Punctuation>
+<word>after</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>first</word>
+<Punctuation> </Punctuation>
+<word>one</word>
+<Punctuation> </Punctuation>
+<word>realised</word>
+<Punctuation> </Punctuation>
+<word>by</word>
+<Punctuation> </Punctuation>
+<Punctuation> </Punctuation>
+<Punctuation> </Punctuation>
+<Punctuation> </Punctuation>
+<Punctuation> </Punctuation>
+<Punctuation> </Punctuation>
+<Punctuation> </Punctuation>
+<Punctuation> </Punctuation>
+
+</Sentance>
+
+</Paragraph><Paragraph>
+<Sentance>
+<word ProperNoun='true'>Isaac</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Newton</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+
+</Sentance>
+<Sentance>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Maxwell</word>
+<Punctuation> </Punctuation>
+<word>demonstrated</word>
+<Punctuation> </Punctuation>
+<word>that</word>
+<Punctuation> </Punctuation>
+<word>electric</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>magnetic</word>
+<Punctuation> </Punctuation>
+<word>fields</word>
+<Punctuation> </Punctuation>
+<word>travel</word>
+<Punctuation> </Punctuation>
+<word>through</word>
+<Punctuation> </Punctuation>
+<word>space</word>
+<Punctuation> </Punctuation>
+<word>as</word>
+<Punctuation> </Punctuation>
+<word>waves</word>
+<Punctuation> </Punctuation>
+<word>moving</word>
+<Punctuation> </Punctuation>
+<word>at</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>speed</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>light</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Maxwell</word>
+<Punctuation> </Punctuation>
+<word>proposed</word>
+<Punctuation> </Punctuation>
+<word>that</word>
+<Punctuation> </Punctuation>
+<word>light</word>
+<Punctuation> </Punctuation>
+<word>is</word>
+<Punctuation> </Punctuation>
+<word>an</word>
+<Punctuation> </Punctuation>
+<word>undulation</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>same</word>
+<Punctuation> </Punctuation>
+<word>medium</word>
+<Punctuation> </Punctuation>
+<word>that</word>
+<Punctuation> </Punctuation>
+<word>is</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>cause</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>electric</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>magnetic</word>
+<Punctuation> </Punctuation>
+<word>phenomena</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+
+</Sentance>
+
+</Paragraph><Paragraph>
+<Sentance>
+<word>The</word>
+<Punctuation> </Punctuation>
+<word>unification</word>
+<Punctuation> </Punctuation>
+<Punctuation> </Punctuation>
+<Punctuation> </Punctuation>
+<Punctuation> </Punctuation>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>light</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>electrical</word>
+<Punctuation> </Punctuation>
+<word>phenomena</word>
+<Punctuation> </Punctuation>
+<word>led</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>prediction</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>existence</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>radio</word>
+<Punctuation> </Punctuation>
+<word>waves</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>His</word>
+<Punctuation> </Punctuation>
+<word>discoveries</word>
+<Punctuation> </Punctuation>
+<word>helped</word>
+<Punctuation> </Punctuation>
+<word>usher</word>
+<Punctuation> </Punctuation>
+<word>in</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>era</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>modern</word>
+<Punctuation> </Punctuation>
+<word>physics</word>
+<Punctuation>,</Punctuation>
+<Punctuation> </Punctuation>
+<word>laying</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>foundation</word>
+<Punctuation> </Punctuation>
+<word>for</word>
+<Punctuation> </Punctuation>
+<word>such</word>
+<Punctuation> </Punctuation>
+<word>fields</word>
+<Punctuation> </Punctuation>
+<word>as</word>
+<Punctuation> </Punctuation>
+<word>special</word>
+<Punctuation> </Punctuation>
+<word>relativity</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word>quantum</word>
+<Punctuation> </Punctuation>
+<word>mechanics</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+<word>His</word>
+<Punctuation> </Punctuation>
+<word>contributions</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>science</word>
+<Punctuation> </Punctuation>
+<word>are</word>
+<Punctuation> </Punctuation>
+<word>considered</word>
+<Punctuation> </Punctuation>
+<word>by</word>
+<Punctuation> </Punctuation>
+<word>many</word>
+<Punctuation> </Punctuation>
+<word>to</word>
+<Punctuation> </Punctuation>
+<word>be</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word>the</word>
+<Punctuation> </Punctuation>
+<word>same</word>
+<Punctuation> </Punctuation>
+<word>magnitude</word>
+<Punctuation> </Punctuation>
+<word>as</word>
+<Punctuation> </Punctuation>
+<word>those</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>of</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Isaac</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Newton</word>
+<Punctuation> </Punctuation>
+<word>and</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Albert</word>
+<Punctuation> </Punctuation>
+<word ProperNoun='true'>Einstein</word>
+<Punctuation>.</Punctuation>
+
+</Sentance>
+<Sentance>
+<Punctuation> </Punctuation>
+
+</Sentance>
+
+</Paragraph>
+</File></Files>
